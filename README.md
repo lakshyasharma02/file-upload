@@ -9,8 +9,6 @@ The user can select any file on their PC once they click on Choose File. After s
 
 Since I didn't have access to a server, I have used my PC as the frontend and the server. Once a file is uploaded, it will be viewed in the directory I have assigned as the server. 
 
-A GIF showing the functioning can be found below. 
 
-![File-upload](https://user-images.githubusercontent.com/67498282/116814354-2af32300-ab76-11eb-9d90-50c4bcfef58f.gif)
 
 
