@@ -5,10 +5,10 @@ A simple project showcasing how to upload files from the frontend to the server.
 
 ### Functioning
 
-The user can select any file on their PC once they click on Choose File. After selecting the file, clicking on upload will send the file to the server and a JSON response will be sent to the frontend. 
+The user can select any file on their PC once they click on Choose File. After selecting the file, clicking on upload will send the file to the server and a **JSON** response will be sent to the frontend signifying that the file has been uploaded successfully.  
 
 Since I didn't have access to a server, I have used my PC as the frontend and the server. Once a file is uploaded, it will be viewed in the directory I have assigned as the server. 
 
-
+![File-upload](https://user-images.githubusercontent.com/67498282/116914087-ee075900-ac67-11eb-9bff-aecca04ffb14.gif)
 
 
